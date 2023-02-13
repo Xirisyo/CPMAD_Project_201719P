@@ -112,7 +112,7 @@ class _ProfileState extends State<Profile> {
                 style: TextButton.styleFrom(
                     foregroundColor: Colors.white,
                     backgroundColor: Colors.red,
-                    padding: const EdgeInsets.fromLTRB(115, 10, 115, 10),
+                    padding: const EdgeInsets.fromLTRB(75, 10, 75, 10),
                     textStyle: const TextStyle(fontSize: 20),
                     side: const BorderSide(
                       color: Colors.white,
@@ -125,7 +125,7 @@ class _ProfileState extends State<Profile> {
                 style: TextButton.styleFrom(
                     foregroundColor: Colors.white,
                     backgroundColor: Colors.blue,
-                    padding: const EdgeInsets.fromLTRB(125, 10, 125, 10),
+                    padding: const EdgeInsets.fromLTRB(105, 10, 105, 10),
                     textStyle:
                         const TextStyle(fontSize: 20, fontFamily: 'OpenSans'),
                     side: const BorderSide(
